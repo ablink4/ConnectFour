@@ -1,0 +1,16 @@
+﻿.BoardCircle {
+	background: lightblue;
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	float: left;
+}
+
+.flex-grid {
+	display: flex;
+}
+
+.col {
+	flex: 1;
+}
